@@ -1,1 +1,2 @@
 # Image-Processing
+To run this code you will need a Python IDE like Spyder. There are three parts to this code. The first part will take image a and place image b in the correct position to complate the image. In the second part, I take images d and e and display the differences in a new image. The last part will take image g, turn the green background into a black one, and then it will take everthing but the black background and place it in image h.
